@@ -1,0 +1,9 @@
+Privacy Policy for Lumii
+
+Lumii does not collect, store, or transmit any personal data. All information you enter (tasks, intentions, reflections) is stored locally in your browser via Chrome's localStorage API.
+
+There are no analytics, trackers, or third-party scripts.
+
+Your data stays on your device — private, secure, and in your control.
+
+If you have any questions or concerns, you may reach us at: mindfulproductivity@proton.me
